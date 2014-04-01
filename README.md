@@ -1,5 +1,13 @@
 == README
 
+WGG - Left off at github section
+
+This project follows the tutorial
+
+* http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+
+Few small items
+* When installing rvm, close the command line and reopen to get it to work
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
